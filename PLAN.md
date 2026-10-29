@@ -5,7 +5,9 @@
 - [x] Придумать название — **Компостер** (`kompostr`)
 - [x] Создать папку проекта и README
 - [x] Создать репозиторий на GitHub — [jackyapa6eu/kompostr](https://github.com/jackyapa6eu/kompostr)
-- [ ] Описать user stories (пассажир, перевозчик)
+- [ ] Описать user stories
+  - [x] Перевозчик — [docs/user-stories/carrier.md](./docs/user-stories/carrier.md)
+  - [ ] Пассажир
 - [ ] Выбрать стек
 - [ ] Спроектировать архитектуру и модель данных
 - [ ] Реализация MVP
