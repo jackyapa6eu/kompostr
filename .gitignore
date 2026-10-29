@@ -1,0 +1,22 @@
+# Служебные файлы Claude
+CLAUDE.md
+CLAUDE.local.md
+.claude/
+
+# Зависимости и сборка
+node_modules/
+dist/
+build/
+.turbo/
+coverage/
+
+# Окружение
+.env
+.env.*
+!.env.example
+
+# Системные и редакторы
+.DS_Store
+.idea/
+.vscode/
+*.log
